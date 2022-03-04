@@ -1,0 +1,13 @@
+mysql:
+  host: "localhost"
+  port: "3306"
+  user: "root"
+  pass: "yuhei0329"
+  db: "mquestion_data"
+
+system: true
+odaiID:
+odai:
+type:
+reward:
+t/freward:

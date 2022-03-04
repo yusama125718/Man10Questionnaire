@@ -1,0 +1,15 @@
+name: Man10_Questionnaire
+version: '${project.version}'
+main: yusama125718_209282ihcuobust.man10_questionnaire.Man10_Questionnaire
+api-version: 1.17
+
+commands:
+  mquestion:
+    description: send a diceroll
+    usage: /<command> [text] [text]
+
+parmissions:
+  mquestion.op:
+    default: op
+  mquestion.player:
+    default: true
